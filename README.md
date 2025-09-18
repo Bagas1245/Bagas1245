@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bagas1245
+- 👋 Hi
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning a java and html
 
